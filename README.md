@@ -1,1 +1,2 @@
 # Unemployment and Inflation Rate in Malaysia
+This project intends to give a complete analysis of Malaysian inflation and unemployment rates to provide a nuanced understanding of the trends, patterns, and relationships between these two vital economic variables. This analysis will make use of a variety of statistical and data analysis techniques, including descriptive analysis, time-series analysis, dynamic time warping, box plot analysis and correlation analysis.
